@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "updated_at": "2026-08-26T19:28:00+09:00",
+  "cine21": {
+    "version": "2026.08.26",
+    "filename": "cine21_rate_build.db",
+    "sha256": "bb931ee3c457bb6e1cede65c1b0fa161c19bef587c16e29d3a5d6b5c76acaa5d",
+    "size": 25821184
+  },
+  "watcha": null
+}
