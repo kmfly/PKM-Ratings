@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-12T03:30:53+09:00",
+  "updated_at": "2026-10-13T03:30:44+09:00",
   "cine21": {
     "version": "2026.08.26",
     "filename": "cine21_rate_build.db",
@@ -9,11 +9,11 @@
     "size": 25821184
   },
   "watcha": {
-    "version": "2026.10.12",
+    "version": "2026.10.13",
     "filename": "watcha_rate_build.db",
-    "url": "https://github.com/kmfly/PKM-Ratings/releases/download/watcha-v2026.10.12/watcha_rate_build.db",
-    "sha256": "2b277d6c7f4b85bae9279510df6bba565bca11d200c2cb373389ab2b7b279de7",
-    "size": 8142848
+    "url": "https://github.com/kmfly/PKM-Ratings/releases/download/watcha-v2026.10.13/watcha_rate_build.db",
+    "sha256": "a7c81ebbcf217e2938b6b06550e8d12b44e8c54db2616a6f3c5d1cd50e9b2ead",
+    "size": 8146944
   },
   "actors": {
     "version": "20260928-110911",
