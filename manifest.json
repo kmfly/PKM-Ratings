@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T03:31:22+09:00",
+  "updated_at": "2026-11-21T07:05:53+09:00",
   "cine21": {
-    "version": "2026.11.13",
+    "version": "2026.11.21",
     "filename": "cine21_rate_build.db",
-    "url": "https://github.com/kmfly/PKM-Ratings/releases/download/cine21-v2026.11.13/cine21_rate_build.db",
-    "sha256": "b8e28a94df9a7078c72efe8ca33d34fe15419501bc74509ad643fca82648e80d",
-    "size": 25985024,
-    "content_sha256": "88b87e03eabe46646405b9a4624068814ed1034211445311c9239aa63a8b28bc"
+    "url": "https://github.com/kmfly/PKM-Ratings/releases/download/cine21-v2026.11.21/cine21_rate_build.db",
+    "sha256": "4b02279847bba258e390eddd9486ac6b3dbb016a7444c84b4583b51ec141d1e9",
+    "size": 25989120,
+    "content_sha256": "dea6533ece78f88d8c7e55faad62404fb450a99a970bf1cac17477d0d8c96f3f"
   },
   "watcha": {
     "version": "2026.11.21",
